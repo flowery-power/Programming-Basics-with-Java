@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Conditional Statement- Lab/Conditional Statement- Lab.iml" filepath="$PROJECT_DIR$/Conditional Statement- Lab/Conditional Statement- Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conditional Statements Advanced - Exercise/Conditional Statements Advanced - Exercise.iml" filepath="$PROJECT_DIR$/Conditional Statements Advanced - Exercise/Conditional Statements Advanced - Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conditional Statements Advanced - Lab/Conditional Statements Advanced - Lab.iml" filepath="$PROJECT_DIR$/Conditional Statements Advanced - Lab/Conditional Statements Advanced - Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conditional Statements Advanced - Exercise/ConditionalStatements-lab/ConditionalStatements-lab.iml" filepath="$PROJECT_DIR$/Conditional Statements Advanced - Exercise/ConditionalStatements-lab/ConditionalStatements-lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exam tasks/Exam tasks.iml" filepath="$PROJECT_DIR$/Exam tasks/Exam tasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/For Loop - Exercise/For Loop - Exercise.iml" filepath="$PROJECT_DIR$/For Loop - Exercise/For Loop - Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ForLoop - Lab/ForLoop - Lab.iml" filepath="$PROJECT_DIR$/ForLoop - Lab/ForLoop - Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Nested Loops - Exercise/Nested Loops - Exercise.iml" filepath="$PROJECT_DIR$/Nested Loops - Exercise/Nested Loops - Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Nested Loops - Lab/Nested Loops - Lab.iml" filepath="$PROJECT_DIR$/Nested Loops - Lab/Nested Loops - Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgramingBasic-Exersice/ProgramingBasic-Exersice.iml" filepath="$PROJECT_DIR$/ProgramingBasic-Exersice/ProgramingBasic-Exersice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgramingBasic-Lab/ProgramingBasic-Lab.iml" filepath="$PROJECT_DIR$/ProgramingBasic-Lab/ProgramingBasic-Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgramingBasics.iml" filepath="$PROJECT_DIR$/ProgramingBasics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/While Loop - Lab/While Loop - Ex/While Loop - Ex.iml" filepath="$PROJECT_DIR$/While Loop - Lab/While Loop - Ex/While Loop - Ex.iml" />
+    </modules>
+  </component>
+</project>
